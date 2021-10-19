@@ -16,22 +16,54 @@
   ## ⬇️|  Skills Technology 
   
 <div style="display: inline_block"><br>
- <img align="center" alt="JoaoAlc-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" alt="JoaoAlc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" alt="JoaoAlc-SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
- <img align="center" alt="JoaoAlc-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
- <img align="center" alt="JoaoAlc-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
- <img align="center" alt="JoaoAlc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img align="center" alt="JoaoAlc-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-   <img align="center" alt="JoaoAlc-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
- <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
- <img align="center" alt="JoaoAlc-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="JoaoAlc-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
- <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
- <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
- <img align="center" alt="JoaoAlc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- <img align="center" alt="JoaoAlc-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></div>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></div>
+  </a>
   
   ##
  
