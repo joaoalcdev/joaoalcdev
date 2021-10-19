@@ -16,61 +16,64 @@
   ## ⬇️|  Skills Technology 
   
 <div style="display: inline_block"><br>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://html.spec.whatwg.org/multipage/">
     <img align="center" alt="JoaoAlc-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://www.w3schools.com/cssref/">
     <img align="center" alt="JoaoAlc-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://sass-lang.com/">
     <img align="center" alt="JoaoAlc-SaSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://tailwindcss.com/">
     <img align="center" alt="JoaoAlc-TailWind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://getbootstrap.com/">
     <img align="center" alt="JoaoAlc-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://docs.python.org/3/">
+    <img align="center" alt="JoaoAlc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://github.com/documentationjs">
     <img align="center" alt="JoaoAlc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://reactjs.org/">
     <img align="center" alt="JoaoAlc-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://nextjs.org/">
     <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://www.typescriptlang.org/docs/">
     <img align="center" alt="JoaoAlc-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://nextjs.org/">
     <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://nodejs.org/en/">
     <img align="center" alt="JoaoAlc-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://webpack.js.org/">
     <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://www.npmjs.com/">
     <img align="center" alt="JoaoAlc-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://yarnpkg.com/">
     <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://yarnpkg.com/">
     <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://www.figma.com/">
     <img align="center" alt="JoaoAlc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://git-scm.com/">
     <img align="center" alt="JoaoAlc-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-  <a href="https://github.com/joaoalcdev">
+  <a href="https://about.gitlab.com/">
     <img align="center" alt="JoaoAlc-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></div>
   </a>
   
