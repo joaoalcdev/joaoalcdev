@@ -50,6 +50,9 @@
     <img align="center" alt="JoaoAlc-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
@@ -57,9 +60,6 @@
   </a>
   <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
-  </a>
-  <a href="https://github.com/joaoalcdev">
-    <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
