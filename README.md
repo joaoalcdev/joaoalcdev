@@ -1,3 +1,4 @@
+
 <div>
   <h1 align="center">🌐| Hi, i'm João!
   <img align="top" alt="JoaoAlc-pic" height="150" style="border-radius:40px;" src="https://lh3.googleusercontent.com/ogw/ADea4I69fY51NSJlktQc6ciucnxpt3QxE0H1JrfG2EbtzQ=s192-c-mo">
@@ -23,6 +24,7 @@
  <img align="center" alt="JoaoAlc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="JoaoAlc-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+   <img align="center" alt="JoaoAlc-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="center" alt="JoaoAlc-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img align="center" alt="JoaoAlc-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img align="center" alt="JoaoAlc-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
