@@ -56,13 +56,22 @@
     <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Yarn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
     <img align="center" alt="JoaoAlc-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   </a>
   <a href="https://github.com/joaoalcdev">
-    <img align="center" alt="JoaoAlc-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></div>
+    <img align="center" alt="JoaoAlc-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+  <a href="https://github.com/joaoalcdev">
+    <img align="center" alt="JoaoAlc-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></div>
   </a>
   
   ##
