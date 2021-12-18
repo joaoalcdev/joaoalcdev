@@ -31,9 +31,6 @@
   <a href="https://getbootstrap.com/">
     <img align="center" alt="JoaoAlc-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
-  <a href="https://docs.python.org/3/">
-    <img align="center" alt="JoaoAlc-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
   <a href="https://github.com/documentationjs">
     <img align="center" alt="JoaoAlc-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </a>
