@@ -2,6 +2,7 @@
 <div>
   <h1 align="center">🌐| Hi, i'm João!
   <p>Frontend Web / Mobile Developer </p>
+  <p> I'm junior Developer, 18 years old </p>
   <img align="top" alt="JoaoAlc-pic" height="150" style="border-radius:40px;" src="https://lh3.googleusercontent.com/ogw/ADea4I69fY51NSJlktQc6ciucnxpt3QxE0H1JrfG2EbtzQ=s192-c-mo">
   </h1> 
 
