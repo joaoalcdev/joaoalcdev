@@ -18,7 +18,6 @@
 </br>
 </br>
 </br>
-</br>
 
 <img align="left" width="250px" style="margin-top:-20px" src="https://i.ibb.co/2c8NbDb/image-4.png">
 
@@ -28,7 +27,6 @@ I turn your ideas and projects into highly scalable, high-performance web applic
 
 I'm 18 years old. I currently work as a junior front-end engineer and I have approximately 2 years of experience. I worked in several niches, such as education, launching digital products and web applications that demand high performance and scalability. I am passionate about developing dynamic and flexible interfaces, high performance pages with “pixel perfect” practice, code quality and clean code. I have experience in the web world, with modern technologies and good code practices acquired through BootCamp Discover, GoStack and Ignite from Coding School, [Rocketseat](https://github.com/Rocketseat).
 
-</br>
 </br>
 </br>
 </br>
@@ -69,8 +67,6 @@ I'm 18 years old. I currently work as a junior front-end engineer and I have app
  <p align="left">☕ | Technology enthusiast, passionate about games, evolution and coffee!</p>
 </div>
 
-</br>
-</br>
 </br>
 </br>
 </br>
