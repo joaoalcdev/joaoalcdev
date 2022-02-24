@@ -90,15 +90,13 @@ I'm 18 years old. I currently work as a junior front-end engineer and I have app
 
 </br>
 </br>
+</br>
+</br>
   
 <p align="center" display="flex" width="100%">
   <a href="https://github.com/joaoalcdev/" align="center">
     <img width="36%" height="180em" display="flex" src="https://github-readme-stats.vercel.app/api?username=joaoalcdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/joaoalcdev/" align="center">
     <img width="26%" height="180em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalcdev&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
-  <a href="https://github.com/joaoalcdev/" align="center">
     <img width="36%" height="180em" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalcdev&theme=algolia&hide_border=false" />
   </a>
 </p>
