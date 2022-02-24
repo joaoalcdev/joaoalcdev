@@ -91,7 +91,6 @@ I'm 18 years old. I currently work as a junior front-end engineer and I have app
 </br>
 </br>
 </br>
-</br>
   
 <p align="center" display="flex" width="100%">
   <a href="https://github.com/joaoalcdev/" align="center">
