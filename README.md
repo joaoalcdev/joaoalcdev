@@ -61,8 +61,8 @@ I'm 18 years old. I currently work as a junior front-end engineer and I have app
 </br>
 
 <div display="inline-block">
- <p align="left">💼 | Looking for new job opportunities. <a href="https://www.linkedin.com/in/joaoalcantaradev/">📫 Contact-me</a>;</p>
- <p align="left">📚 | ReactJs and NextJs student for over a year</p>
+ <p align="left">💼 | Looking for new job opportunities. <a href="https://www.linkedin.com/in/joaoalcantaradev/">📫 Contact-me</a>.</p>
+ <p align="left">📚 | ReactJs and NextJs student for over a year.</p>
  <p align="left">📷 | I'm always sharing content, curiosities and new experiences on the <a href="https://dev.to/joaoalcdev">blog</a>.</p>
  <p align="left">☕ | Technology enthusiast, passionate about games, evolution and coffee!</p>
 </div>
