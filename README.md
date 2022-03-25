@@ -102,7 +102,7 @@ I'm 18 years old. I currently work as a junior front-end engineer and I have app
     
   ![Snake animation](https://github.com/joaoalcdev/joaoalcdev/blob/output/github-contribution-grid-snake.svg)
     
-  ![João Alcântara ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joaoalcdev&custom_title=JoaoAlcantara%20Contribution%20Graph&theme=algolia&bg_color=040F2C&hide_border=false&line=1E7996&point=30FBAA)
+<!--   ![João Alcântara ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joaoalcdev&custom_title=JoaoAlcantara%20Contribution%20Graph&theme=algolia&bg_color=040F2C&hide_border=false&line=1E7996&point=30FBAA) -->
     
   </div>
 </a>
