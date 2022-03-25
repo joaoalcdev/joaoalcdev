@@ -4,7 +4,7 @@
 </br>
 
 <div dsplay="inline-block">
-  <h1 align="left">👨🏽‍💻 | João Alcântara | Front-End Engineer</h1>
+  <h1 align="left">👨🏽‍💻 | João Alcântara | Frontend Engineer</h1>
   <p>🌐 | Conect with me:</p>
  <a href="https://www.instagram.com/joaoalcantara.dev/">
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
