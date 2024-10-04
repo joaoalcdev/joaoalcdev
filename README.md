@@ -25,7 +25,7 @@
 
 I turn your ideas and projects into highly scalable, high-performance web applications.
 
-I'm 19 years old. I currently work as a junior front-end engineer and I have approximately 1 years of experience. I worked in several niches, such as education, launching digital products and web applications that demand high performance and scalability. I am passionate about developing dynamic and flexible interfaces, high performance pages with “pixel perfect” practice, code quality and clean code. I have experience in the web world, with modern technologies and good code practices acquired through BootCamp Discover, GoStack and Ignite from Coding School, [Rocketseat](https://github.com/Rocketseat).
+I'm 20 years old. I currently work as a junior front-end engineer and I have approximately 1 years of experience. I worked in several niches, such as education, launching digital products and web applications that demand high performance and scalability. I am passionate about developing dynamic and flexible interfaces, high performance pages with “pixel perfect” practice, code quality and clean code. I have experience in the web world, with modern technologies and good code practices acquired through BootCamp Discover, GoStack and Ignite from Coding School, [Rocketseat](https://github.com/Rocketseat).
 
 </br>
 </br>
