@@ -39,29 +39,18 @@ I'm 20 years old. I currently work as a junior front-end engineer and I have app
 ## 📚 | My Technology Lab:
 
 </br>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BOOTSTRAP"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TAILWINDCSS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JAVASCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" title="BABEL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="JEST"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="REACTJS"/></code>
-</br>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NEXTJS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NODE.JS"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TYPESCRIPT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GITHUB"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VSCODE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="MACBOOK"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="FIGMA"/></code>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwindcss,styledcomponents,react,nextjs,nodejs,git,github,vscode,figma,py,java,discord,vercel,postman,devto,linkedin,&perline=7&theme=light)](https://github.com/joaoalcdev)
+
+
+
+
 </br>
 </br>
 </br>
 
 <div display="inline-block">
- <p align="left">💼 | Looking for new job opportunities. <a href="https://www.linkedin.com/in/joaoalcantaradev/">📫 Contact-me</a>.</p>
+ <p align="left">💼 | I'm looking for new job opportunities. <a href="https://www.linkedin.com/in/joaoalcantaradev/">📫 Contact-me</a>.</p>
  <p align="left">📚 | ReactJs and NextJs student for over a year.</p>
  <p align="left">📷 | I'm always sharing content, curiosities and new experiences on the <a href="https://dev.to/joaoalcdev">blog</a>.</p>
  <p align="left">☕ | Technology enthusiast, passionate about games, evolution and coffee!</p>
@@ -99,3 +88,13 @@ I'm 20 years old. I currently work as a junior front-end engineer and I have app
 </br>
 </br>
 </br>
+
+
+
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalcdev&theme=algolia&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoalcdev&theme=algolia)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+ | ----------- | ----------- |
+
