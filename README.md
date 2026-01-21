@@ -1,7 +1,8 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/47nyCGT/cat-02.png">
+</br>
+</br>
 
-</br>
-</br>
+<img align="right" width="250px" style="margin-top:20px" src="https://i.ibb.co/47nyCGT/cat-02.png">
+
 
 <div dsplay="inline-block">
   <h1 align="left">👨🏽‍💻 | João Alcântara | Software Engineering</h1>
@@ -19,7 +20,7 @@
 </br>
 </br>
 
-<img align="left" width="250px" style="margin-top:-20px" src="https://i.ibb.co/2c8NbDb/image-4.png">
+<img align="left" width="250px" style="margin-top:60px" src="https://i.ibb.co/2c8NbDb/image-4.png">
 
 ## About me, dive with me and get to know me a little more!
 
@@ -33,7 +34,7 @@ I'm 20 years old. I currently work as a junior front-end engineer and I have app
 </br>
 
 
-<img width="300px" align="right" src="https://i.ibb.co/XzT9XRz/garage.png">
+<img width="300px" align="right" style="margin-top: 50px" src="https://i.ibb.co/XzT9XRz/garage.png">
 </br>
 
 ## 📚 | My Technology Lab:
@@ -81,7 +82,7 @@ I'm 20 years old. I currently work as a junior front-end engineer and I have app
   <a href="https://github.com/joaoalcdev/" align="center">
     <img width="36%" height="180em" display="flex" src="https://github-readme-stats.vercel.app/api?username=joaoalcdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img width="26%" height="180em" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalcdev&layout=compact&langs_count=7&theme=algolia"/>
-    <img width="36%" height="180em" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalcdev&theme=algolia&hide_border=false" />
+    <!-- <img width="36%" height="180em" display="flex" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoalcdev&theme=algolia&hide_border=false" /> -->
   </a>
 </p>
 
